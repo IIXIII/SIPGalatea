@@ -1,0 +1,17 @@
+{
+  "name": "SIP",
+  "authors": [
+    "Oscar Montaño Ayala <oayala@nuxiba.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
